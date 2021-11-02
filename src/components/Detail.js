@@ -5,7 +5,7 @@ function Detail() {
     return (
         <Container>
             <Background>
-                <img src="/images/toystory4_1920x1080.jpg" />
+                <img src="/images/toystory4_1920x1080.jpg"/>
             </Background>
             <ImageTitle>
                 <img src="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZuXZsvFzXYskWA24gyI4NdRMD9E4-e30N3On0_tr24GEnIegeGM9eYAr8hGdvrpfB08m1gynvv_gE2a8aSzho_QsJhuSFMBkx4t-FuJ0rx3h_M9PwFUfzGqRyFilgN7NP7VWV3BmooZUtc3GnSvH8a4FLrBn5R4I8dxHfqwAS21.webp?r=df1" />

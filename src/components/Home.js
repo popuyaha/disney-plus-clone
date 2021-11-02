@@ -6,11 +6,9 @@ import Movies from './Movies'
 import db from '../firebase'
 
 function Home() {
-
+    console.log(db);
     useEffect(()=>{
-        db.collection("movies").onSnapshot((snapshot)=>{
-            console.log(snapshot);
-        })
+           
     }, [])
     return (
         <Container>
